@@ -127,6 +127,10 @@ body {
   margin: 0;
 }
 
+.item img {
+  width:100%;
+  height: auto;
+}
 
 .interpolation-panel {
   background: #f5f5f5;
