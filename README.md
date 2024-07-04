@@ -1,6 +1,6 @@
 # Smarter-VLM 
 
-This is the repository that contains source code for the [Smarter-VLM website](https://smarter-vlm.github.io).
+This is the repository that contains source code for the [Smarter-VLM website](https://smarter-vlm.github.io/smarter-vlm/).
 
 If you find Smarter-VLM useful for your work please cite:
 ```
