@@ -4,12 +4,14 @@ This is the repository that contains source code for the [Smarter-VLM website](h
 
 If you find Smarter-VLM useful for your work please cite:
 ```
-@article{park2021nerfies
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Nerfies: Deformable Neural Radiance Fields},
-  journal   = {ICCV},
-  year      = {2021},
-}
+@article{roberts2024smarter,
+  author        = {Roberts, Denisa and Roberts, Lucas},
+  title         = {Smart Vision-Language Reasoners},
+  year          = {2024},
+  eprint        = {TBD},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.AI},
+  url           = {https://arxiv.org/abs/TBD},
 ```
 
 # Website License
