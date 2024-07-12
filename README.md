@@ -5,13 +5,13 @@ This is the repository that contains source code for the [Smarter-VLM website](h
 If you find Smarter-VLM useful for your work please cite:
 ```
 @article{roberts2024smarter,
-  author        = {Roberts, Denisa and Roberts, Lucas},
+  author        = {Denisa Roberts and Lucas Roberts},
   title         = {Smart Vision-Language Reasoners},
   year          = {2024},
-  eprint        = {TBD},
+  eprint        = {2407.04212},
   archivePrefix = {arXiv},
   primaryClass  = {cs.AI},
-  url           = {https://arxiv.org/abs/TBD},
+  url           = {https://arxiv.org/abs/2407.04212},
 ```
 
 # Website License
